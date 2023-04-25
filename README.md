@@ -5,4 +5,6 @@ radio_receiver.py and radio_sender.py were provided with the LoRa Equipment. I j
 
 parseData.py was a simple script that I wrote that would read through all output from the receiver program and filter out all duplicated GPS points in order to make the maps more readable.
 
+TestDataIn contains the raw output from the tests. TestDataOut contains the data after removing duplicate points.
+
 This project didn't rely on a lot of coding/implementation and instead was mostly focused on the experimentaion side of things.
