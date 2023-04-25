@@ -1,0 +1,32 @@
+DRIVING DOWN PARKWAY BACK TO PARENTS
+
+radio_rx  01DD
+<+40.27656039,-111.65711480> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:18:41 AM Mountain Daylight Time
+radio_rx  01DE
+<+40.27656039,-111.65711480> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:18:44 AM Mountain Daylight Time
+radio_rx  01E0
+<+40.27656039,-111.65711480> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:18:50 AM Mountain Daylight Time
+radio_rx  01E1
+<+40.27665269,-111.65711963> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:18:53 AM Mountain Daylight Time
+radio_rx  01E2
+<+40.27665269,-111.65711963> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:18:55 AM Mountain Daylight Time
+radio_rx  01E3
+<+40.27665269,-111.65711963> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:18:58 AM Mountain Daylight Time
+radio_rx  01E4
+<+40.28082767,-111.65812835> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:19:01 AM Mountain Daylight Time
+radio_rx  01E5
+<+40.28082767,-111.65812835> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:19:04 AM Mountain Daylight Time
+radio_rx  01E6
+<+40.28082767,-111.65812835> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:19:07 AM Mountain Daylight Time
+radio_rx  01E7
+<+40.28082767,-111.65812835> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:19:10 AM Mountain Daylight Time
+radio_rx  01E8
+<+40.28082767,-111.65812835> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:19:12 AM Mountain Daylight Time
+radio_rx  01E9
+<+40.28176850,-111.65801632> +/- 59.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:19:15 AM Mountain Daylight Time
+radio_rx  01EA
+<+40.28176850,-111.65801632> +/- 59.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:19:18 AM Mountain Daylight Time
+radio_rx  01EB
+<+40.28176850,-111.65801632> +/- 59.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:19:21 AM Mountain Daylight Time
+radio_rx  01EC
+<+40.28176850,-111.65801632> +/- 59.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:19:24 AM Mountain Daylight Time

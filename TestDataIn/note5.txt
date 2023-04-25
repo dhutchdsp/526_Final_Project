@@ -1,0 +1,220 @@
+UVU to apartment
+
+radio_rx  0499
+<+40.27336694,-111.69796506> +/- 65.82m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:56:43 AM Mountain Daylight Time
+radio_rx  049F
+<+40.27331443,-111.69778988> +/- 65.69m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:56:55 AM Mountain Daylight Time
+radio_rx  04A1
+<+40.27345374,-111.69791781> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:01 AM Mountain Daylight Time
+radio_rx  04A4
+<+40.27348816,-111.69795866> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:09 AM Mountain Daylight Time
+radio_rx  04A6
+<+40.27348137,-111.69795461> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:15 AM Mountain Daylight Time
+radio_rx  04A7
+<+40.27348137,-111.69795461> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:18 AM Mountain Daylight Time
+radio_rx  04A8
+<+40.27347650,-111.69794956> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:21 AM Mountain Daylight Time
+radio_rx  04A9
+<+40.27347650,-111.69794956> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:23 AM Mountain Daylight Time
+radio_rx  04AA
+<+40.27347650,-111.69794956> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:26 AM Mountain Daylight Time
+radio_rx  04AB
+<+40.27347632,-111.69794906> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:29 AM Mountain Daylight Time
+radio_rx  04AC
+<+40.27347632,-111.69794906> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:32 AM Mountain Daylight Time
+radio_rx  04AD
+<+40.27347632,-111.69794906> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:35 AM Mountain Daylight Time
+radio_rx  04AE
+<+40.27347679,-111.69794949> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:38 AM Mountain Daylight Time
+radio_rx  04AF
+<+40.27347679,-111.69794949> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:41 AM Mountain Daylight Time
+radio_rx  04B0
+<+40.27347679,-111.69794949> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:43 AM Mountain Daylight Time
+radio_rx  04B1
+<+40.27347689,-111.69794962> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:46 AM Mountain Daylight Time
+radio_rx  04B2
+<+40.27347689,-111.69794962> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:49 AM Mountain Daylight Time
+radio_rx  04B3
+<+40.27347689,-111.69794962> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:52 AM Mountain Daylight Time
+radio_rx  04B4
+<+40.27347689,-111.69794962> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:55 AM Mountain Daylight Time
+radio_rx  04B5
+<+40.27347686,-111.69794959> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:57:58 AM Mountain Daylight Time
+radio_rx  04B6
+<+40.27347686,-111.69794959> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:58:00 AM Mountain Daylight Time
+radio_rx  04B7
+<+40.27347684,-111.69794958> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:58:03 AM Mountain Daylight Time
+radio_rx  04B8
+<+40.27347684,-111.69794958> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:58:06 AM Mountain Daylight Time
+radio_rx  04B9
+<+40.27347684,-111.69794958> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:58:09 AM Mountain Daylight Time
+radio_rx  04BA
+<+40.27347684,-111.69794958> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:58:12 AM Mountain Daylight Time
+radio_rx  04BB
+<+40.27347684,-111.69794958> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:58:15 AM Mountain Daylight Time
+radio_rx  04BD
+<+40.27347685,-111.69794958> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:58:20 AM Mountain Daylight Time
+radio_rx  04BE
+<+40.27347685,-111.69794958> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:58:23 AM Mountain Daylight Time
+radio_rx  04C0
+<+40.27347685,-111.69794958> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:58:29 AM Mountain Daylight Time
+radio_rx  04C2
+<+40.27347685,-111.69794958> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:58:34 AM Mountain Daylight Time
+radio_rx  04C3
+<+40.27347685,-111.69794958> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:58:37 AM Mountain Daylight Time
+radio_rx  04C4
+<+40.27347685,-111.69794958> +/- 54.57m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:58:40 AM Mountain Daylight Time
+radio_rx  04C6
+<+40.27347973,-111.69817264> +/- 60.08m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:58:46 AM Mountain Daylight Time
+radio_rx  04C7
+<+40.27347973,-111.69817264> +/- 60.08m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:58:49 AM Mountain Daylight Time
+radio_rx  04CA
+<+40.27306910,-111.69409441> +/- 68.46m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:58:57 AM Mountain Daylight Time
+radio_rx  04CB
+<+40.27306910,-111.69409441> +/- 68.46m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:00 AM Mountain Daylight Time
+radio_rx  04CC
+<+40.27292024,-111.69279991> +/- 55.31m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:03 AM Mountain Daylight Time
+radio_rx  04CD
+<+40.27292024,-111.69279991> +/- 55.31m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:06 AM Mountain Daylight Time
+radio_rx  04CE
+<+40.27292024,-111.69279991> +/- 55.31m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:09 AM Mountain Daylight Time
+radio_rx  04CF
+<+40.27300615,-111.69258932> +/- 45.75m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:11 AM Mountain Daylight Time
+radio_rx  04D0
+<+40.27300615,-111.69258932> +/- 45.75m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:14 AM Mountain Daylight Time
+radio_rx  04D3
+<+40.27312153,-111.69264911> +/- 45.75m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:23 AM Mountain Daylight Time
+radio_rx  04D4
+<+40.27312153,-111.69264911> +/- 45.75m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:26 AM Mountain Daylight Time
+radio_rx  04D5
+<+40.27301810,-111.69060263> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:28 AM Mountain Daylight Time
+radio_rx  04D6
+<+40.27301810,-111.69060263> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:31 AM Mountain Daylight Time
+radio_rx  04D7
+<+40.27301116,-111.69021980> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:34 AM Mountain Daylight Time
+radio_rx  04D8
+<+40.27301116,-111.69021980> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:37 AM Mountain Daylight Time
+radio_rx  04DA
+<+40.27297359,-111.69022726> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:43 AM Mountain Daylight Time
+radio_rx  04DD
+<+40.27297359,-111.69022726> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:51 AM Mountain Daylight Time
+radio_rx  04DE
+<+40.27321616,-111.68626278> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:54 AM Mountain Daylight Time
+radio_rx  04DF
+<+40.27321616,-111.68626278> +/- 40.00m (speed -1.00 mps / course -1.00) @ 4/15/23, 11:59:57 AM Mountain Daylight Time
+radio_rx  04E1
+<+40.27310595,-111.68527133> +/- 45.75m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:00:02 PM Mountain Daylight Time
+radio_rx  04E7
+<+40.27304977,-111.68511482> +/- 52.78m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:00:20 PM Mountain Daylight Time
+radio_rx  04EA
+<+40.27304977,-111.68511482> +/- 52.78m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:00:28 PM Mountain Daylight Time
+radio_rx  04EB
+<+40.27304977,-111.68511482> +/- 52.78m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:00:31 PM Mountain Daylight Time
+radio_rx  04F5
+<+40.26921823,-111.68289013> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:00:59 PM Mountain Daylight Time
+radio_rx  04F7
+<+40.26921823,-111.68289013> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:05 PM Mountain Daylight Time
+radio_rx  04FA
+<+40.26921823,-111.68289013> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:13 PM Mountain Daylight Time
+radio_rx  04FC
+<+40.26921451,-111.68294954> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:19 PM Mountain Daylight Time
+radio_rx  04FD
+<+40.26921451,-111.68294954> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:22 PM Mountain Daylight Time
+radio_rx  04FE
+<+40.26921451,-111.68294954> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:25 PM Mountain Daylight Time
+radio_rx  04FF
+<+40.26918798,-111.68291479> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:28 PM Mountain Daylight Time
+radio_rx  0500
+<+40.26918798,-111.68291479> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:30 PM Mountain Daylight Time
+radio_rx  0501
+<+40.26918798,-111.68291479> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:33 PM Mountain Daylight Time
+radio_rx  0502
+<+40.26918798,-111.68291479> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:36 PM Mountain Daylight Time
+radio_rx  0503
+<+40.26917967,-111.68290964> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:39 PM Mountain Daylight Time
+radio_rx  0504
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:42 PM Mountain Daylight Time
+radio_rx  0505
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:45 PM Mountain Daylight Time
+radio_rx  0506
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:47 PM Mountain Daylight Time
+radio_rx  0507
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:50 PM Mountain Daylight Time
+radio_rx  0508
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:53 PM Mountain Daylight Time
+radio_rx  0509
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:56 PM Mountain Daylight Time
+radio_rx  050A
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:01:59 PM Mountain Daylight Time
+radio_rx  050C
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:04 PM Mountain Daylight Time
+radio_rx  050D
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:07 PM Mountain Daylight Time
+radio_rx  050E
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:10 PM Mountain Daylight Time
+radio_rx  050F
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:13 PM Mountain Daylight Time
+radio_rx  0510
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:16 PM Mountain Daylight Time
+radio_rx  0511
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:19 PM Mountain Daylight Time
+radio_rx  0512
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:21 PM Mountain Daylight Time
+radio_rx  0513
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:24 PM Mountain Daylight Time
+radio_rx  0514
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:27 PM Mountain Daylight Time
+radio_rx  0515
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:30 PM Mountain Daylight Time
+radio_rx  0516
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:33 PM Mountain Daylight Time
+radio_rx  0517
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:36 PM Mountain Daylight Time
+radio_rx  0518
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:38 PM Mountain Daylight Time
+radio_rx  0519
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:41 PM Mountain Daylight Time
+radio_rx  051A
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:44 PM Mountain Daylight Time
+radio_rx  051B
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:47 PM Mountain Daylight Time
+radio_rx  051C
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:50 PM Mountain Daylight Time
+radio_rx  051E
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:55 PM Mountain Daylight Time
+radio_rx  051F
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:02:58 PM Mountain Daylight Time
+radio_rx  0520
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:03:01 PM Mountain Daylight Time
+radio_rx  0528
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:03:24 PM Mountain Daylight Time
+radio_rx  0529
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:03:27 PM Mountain Daylight Time
+radio_rx  052A
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:03:30 PM Mountain Daylight Time
+radio_rx  052B
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:03:32 PM Mountain Daylight Time
+radio_rx  052C
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:03:35 PM Mountain Daylight Time
+radio_rx  052D
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:03:38 PM Mountain Daylight Time
+radio_rx  052F
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:03:44 PM Mountain Daylight Time
+radio_rx  0530
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:03:47 PM Mountain Daylight Time
+radio_rx  0531
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:03:49 PM Mountain Daylight Time
+radio_rx  0532
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:03:52 PM Mountain Daylight Time
+radio_rx  0533
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:03:55 PM Mountain Daylight Time
+radio_rx  0536
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:04:04 PM Mountain Daylight Time
+radio_rx  0537
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:04:06 PM Mountain Daylight Time
+radio_rx  0538
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:04:09 PM Mountain Daylight Time
+radio_rx  0539
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:04:12 PM Mountain Daylight Time
+radio_rx  053A
+<+40.26918099,-111.68291108> +/- 52.33m (speed -1.00 mps / course -1.00) @ 4/15/23, 12:04:15 PM Mountain Daylight Time
